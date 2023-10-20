@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito Sans");
+
+*{
+    font-family: "Nunito Sans";
+}
+body{
+    background-image: url('https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png');
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position-x: 460px;
+    background-position-y: 10px;
+}
+
+#logo{
+    margin-left: 86%;
+}
+
+h1{
+    margin-left: 50px;
+    text-shadow: 2px 2px 2px grey;
+}
+
+p{
+    margin-left: 50px;
+    color: grey;
+    line-height: none;
+}
+
+#heading{
+    font-weight: 400px;
+}
+
+table{
+    margin-left: 50px;
+    height: 210px;
+    width: 1000px; 
+    background-color: white;
+    border-collapse: collapse;
+    line-height: 35px;
+}
+th, td{
+    border-bottom: 1px solid grey;
+}
+
+#mgright{
+    margin-right: 40px;
+}
+
+table th{
+    background-color: #f05033;
+    color: white;
+    text-align: left;
+    border-bottom: 2px solid Grey;
+}
+.col6{
+    text-align: right;
+    padding-right: 40px;
+    width: 0;
+}
+div{
+    margin-left: 50px;
+}
+.bluecolor{
+    color: blue;
+}
+.for_divsize{
+    height: 379px;
+    width: 565px;
+}
+#info{
+    position: fixed;
+    height: 367px;
+    width: 565px;
+    top: 211px;
+    left: 158px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+    
